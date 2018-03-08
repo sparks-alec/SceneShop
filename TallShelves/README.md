@@ -1,6 +1,8 @@
 # Tall Shelves
 
-Designed to be modular and fairly inexpensive.
+Designed to be modular and fairly inexpensive. 3/8 holes spaced every 6" along the vertical posts provide options for adjustability and make it simple to bolt on more shelves or other accessories. Open slots for bolt holes make assembly easy even if the posts are slighly out of plumb or the bolt holes are slightly off center.
+
+We designed ours to have 8' of open space below it for future use.
 
 ## Materials
 * 1x2 Box Steel
@@ -10,3 +12,5 @@ Designed to be modular and fairly inexpensive.
 
 ## Hardware
 * 3/8" x 2" Hex Bolts
+
+(Materials and hardware will very depending on the specifc dimension and number of shelves)
