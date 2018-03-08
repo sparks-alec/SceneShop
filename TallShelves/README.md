@@ -14,3 +14,11 @@ We designed ours to have 8' of open space below it for future use.
 * 3/8" x 2" Hex Bolts
 
 (Materials and hardware will very depending on the specifc dimension and number of shelves)
+
+## PDF
+* Construction Drawings [TallShelves.pdf](TallShelves.pdf)
+
+## 3D
+* Full 3D View [TallShelves.stl](TallShelves.stl)
+* Single Shelf [SingleShelf.stl](SingleShelf.stl)
+* Single Safety Bar [SingleSafetyBar.stl](SingleSafetyBar.stl)
