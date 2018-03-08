@@ -2,6 +2,8 @@
 
 Designed to be modular and fairly inexpensive. 3/8 holes spaced every 6" along the vertical posts provide options for adjustability and make it simple to bolt on more shelves or other accessories. Open slots for bolt holes make assembly easy even if the posts are slighly out of plumb or the bolt holes are slightly off center.
 
+![Line Drawing of Tall Shelves](TallShelvesIcon.JPG "Line Drawing of Tall Shelves")
+
 We designed ours to have 8' of open space below it for future use. Ours is also 25' tall, because we were able to bolt it securely between structural concrete columns. Bolting to building structure is recommended.
 
 
